@@ -1,0 +1,8 @@
+{
+  "name": "Hamake Naogaon",
+  "description": "A comprehensive community service application for Naogaon city, featuring emergency services, medical directories, a local marketplace, and a news feed.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
